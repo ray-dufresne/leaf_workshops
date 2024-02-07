@@ -48,7 +48,7 @@
 	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207172129569",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-07T23:21:29.569Z",
-	"dcterms:modified": "2024-02-07T23:38:02.559Z",
+	"dcterms:modified": "2024-02-07T23:47:23.023Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ray-dufresne",
 		"@type": [
@@ -80,7 +80,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/1769163877655246060005/",
+		"@id": "http://www.wikidata.org/entity/Q228494",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -208,7 +208,7 @@
 	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174254599",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-07T23:42:54.599Z",
-	"dcterms:modified": "2024-02-07T23:42:54.599Z",
+	"dcterms:modified": "2024-02-07T23:47:41.167Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ray-dufresne",
 		"@type": [
@@ -417,7 +417,7 @@
   <text>
       <body>
 
-         <head><persName key="Browning, Elizabeth Barrett" ref="http://viaf.org/viaf/1769163877655246060005/" type="real" cert="Unknown">Elizabeth Barrett Browning</persName></head>
+         <head><persName key="Elizabeth Barrett Browning" ref="http://www.wikidata.org/entity/Q228494" type="real" cert="Unknown" role="aut">Elizabeth Barrett Browning</persName></head>
             <byline>Vachel Lindsay</byline>
 
          <lg>
