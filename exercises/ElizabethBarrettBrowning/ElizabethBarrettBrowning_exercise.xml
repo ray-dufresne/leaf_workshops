@@ -45,10 +45,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207172129569",
+	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174723023",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-07T23:21:29.569Z",
-	"dcterms:modified": "2024-02-07T23:47:23.023Z",
+	"dcterms:created": "2024-02-07T23:47:23.023Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ray-dufresne",
 		"@type": [
@@ -59,7 +58,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207172129569#Target",
+		"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174723023#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml",
@@ -73,7 +72,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207172129569#Selector",
+			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174723023#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/head/persName"
 		}
@@ -205,10 +204,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174254599",
+	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174741167",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-07T23:42:54.599Z",
-	"dcterms:modified": "2024-02-07T23:47:41.167Z",
+	"dcterms:created": "2024-02-07T23:47:41.167Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ray-dufresne",
 		"@type": [
@@ -219,7 +217,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174254599#Target",
+		"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174741167#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml",
@@ -233,7 +231,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174254599#Selector",
+			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?person_annotation_20240207174741167#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/lg/l[4]/persName"
 		}
@@ -413,6 +411,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?place_annotation_20240207175914174",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-02-07T23:59:14.174Z",
+	"dcterms:modified": "2024-02-07T23:59:14.174Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ray-dufresne",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "r d"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?place_annotation_20240207175914174#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ray-dufresne/leaf_workshops/main/exercises/ElizabethBarrettBrowning/ElizabethBarrettBrowning_exercise.xml?place_annotation_20240207175914174#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q30",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
   <text>
       <body>
@@ -432,7 +509,7 @@
 
          <div>
             <p>Note for line 1 : Elizabeth Barrett was one of the most prominent poets of the nineteenth century who married the poet <persName key="Browning, Robert" ref="http://viaf.org/viaf/7003158915904550000005/" cert="Unknown">Robert Browning</persName>. In the early twentieth century when this poem was written, she was better remembered for the love letters and poems associated with their courtship than for her more ambitous and political writing, which was fiercely femininist and abolitionist.</p>
-            <p>Note for line 4: Mary Pickford was a <placeName key="Toronto" ref="http://www.wikidata.org/entity/Q172" cert="high">Toronto<precision match="@ref" precision="Unknown"/></placeName>-born actress for both the stage and the screen who was known as "America's sweetheart" and famous for her romance with the actor <persName key="Douglas Fairbanks" ref="http://www.wikidata.org/entity/Q104127" role="act" type="real">Douglas Fairbanks</persName>.</p>
+            <p>Note for line 4: Mary Pickford was a <placeName key="Toronto" ref="http://www.wikidata.org/entity/Q172" cert="high">Toronto<precision match="@ref" precision="Unknown"/></placeName>-born actress for both the stage and the screen who was known as "<placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30">America</placeName>'s sweetheart" and famous for her romance with the actor <persName key="Douglas Fairbanks" ref="http://www.wikidata.org/entity/Q104127" role="act" type="real">Douglas Fairbanks</persName>.</p>
             <p>Note for line 6: The poem anticipates the literary critical concept of the Victorian Sage. See https://en.wikipedia.org/wiki/Sage_writing</p>
 </div>
       </body>
